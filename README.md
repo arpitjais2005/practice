@@ -1,2 +1,2 @@
 # practice
-These repo is just for practice. 
+This repo is just for practice. 
